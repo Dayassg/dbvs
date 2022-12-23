@@ -1,3 +1,7 @@
-
 use daya;
-select * from student_info;
+CREATE TABLE dummy (
+    sNo int,
+    EName varchar(255),
+    email varchar(255)
+);
+
